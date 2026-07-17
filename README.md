@@ -1,297 +1,146 @@
 <div align="center">
-  
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Software%20Engineer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Full+Stack+.NET+Developer+%F0%9F%9A%80;Flutter+Mobile+Developer+%F0%9F%93%B1;Building+Scalable+Solutions+%F0%9F%92%BB" alt="Typing SVG" /></a>
+# ABDELRAHMAN ELSHEREF
 
-<br/>
+### Full-Stack & Mobile Software Engineer | Final-Year Computer Science Student
 
-### 👨‍💻 Crafting elegant solutions with clean code and modern architecture
-
-<br/>
-
-<!-- Social Badges with Animation -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-elsheref)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Abdelrahman3535.elsheref@gmail.com)
-
-<br/>
-
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Abdoae35&color=6366f1&style=for-the-badge&label=Profile+Views)
-
-</div>
-
-<br/>
+Dedicated to building high-performance, resilient distributed systems and cross-platform applications. Focused on domain-driven design, maintainable architecture, and automated delivery pipelines.
 
 ---
 
-<br/>
-
-<div align="center">
-
-## 🎯 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-elsheref)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Online-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-Direct_Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Abdelrahman3535.elsheref@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Abdoae35-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abdoae35)
 
 </div>
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-```typescript
-const SoftwareEngineer = {
-    name: "Your Name",
-    role: "Full Stack Software Engineer",
-    location: "Tanta, Egypt 🇪🇬",
-    
-    code: ["C#", "Dart", "JavaScript", "TypeScript", "SQL"],
-    
-    technologies: {
-        backend: {
-            dotnet: [".NET Core", "ASP.NET MVC", "Entity Framework", "LINQ"],
-            webFrameworks: ["Blazor Server", "Blazor WebAssembly", "Web API"]
-        },
-        mobile: {
-            crossPlatform: ["Flutter", "Dart"],
-            stateManagement: ["Provider", "BLoC", "Riverpod"]
-        },
-        frontend: ["HTML5", "CSS3", "JavaScript", "Bootstrap", "Tailwind CSS"],
-        databases: ["SQL Server", "MySQL", "SQLite", "PostgreSQL"],
-        cloud: ["Azure", "Firebase"],
-        tools: ["Git", "Docker", "Postman", "Azure DevOps"]
-    },
-    
-    architecture: ["MVC", "MVVM", "Clean Architecture", "REST API", "Microservices"],
-    
-    currentFocus: "Building scalable enterprise applications and beautiful mobile experiences",
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
-};
-```
-
-<br/>
 
 ---
 
-<br/>
+## Executive Summary
 
-<div align="center">
+Final-year Computer Science student and Software Engineer with a solid foundation in software architecture, full-stack enterprise development, and cross-platform mobile engineering. Specialized in the **.NET Ecosystem** (C#, ASP.NET Core, EF Core) and mobile application development with **Flutter / Dart**.
 
-## 🛠️ Technology Arsenal
-
-### Backend Powerhouse
-
-[![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![ASP.NET](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
-[![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=nuget&logoColor=white)](https://docs.microsoft.com/en-us/ef/)
-[![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
-
-### Mobile Magic
-
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
-[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/)
-
-### Frontend Finesse
-
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-
-### Database & Storage
-
-[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-
-### DevOps & Tools
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
-
-</div>
-
-<br/>
+Experienced in designing clean layered systems, optimizing database performance, implementing RESTful Web APIs, and applying Clean Architecture principles. Dedicated to writing maintainable, well-tested code and continuously expanding technical expertise in scalable systems and automated delivery pipelines.
 
 ---
 
-<br/>
+## Core Expertise & Technical Arsenal
 
-<div align="center">
+### Languages & Core Runtimes
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## 📊 GitHub Analytics
+### Frameworks & Libraries
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=nuget&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![BLoC / Riverpod](https://img.shields.io/badge/State_Management-BLoC_|_Riverpod-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdoae35&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdoae35&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" alt="GitHub Streak"/>
+### Databases & Storage Solutions
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdoae35&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdoae35&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&hide_border=true" alt="Contribution Graph"/>
+### Cloud, Infrastructure & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-</div>
-
-<br/>
+### Architecture & Methodologies
+![Clean Architecture](https://img.shields.io/badge/Architecture-Clean_Architecture-1E293B?style=flat-square)
+![Domain-Driven Design](https://img.shields.io/badge/Design-Domain--Driven_Design-1E293B?style=flat-square)
+![RESTful API Design](https://img.shields.io/badge/API-RESTful_Standards-1E293B?style=flat-square)
+![Microservices](https://img.shields.io/badge/Architecture-Microservices-1E293B?style=flat-square)
+![SOLID Principles](https://img.shields.io/badge/Principles-SOLID-1E293B?style=flat-square)
+![Agile & Scrum](https://img.shields.io/badge/Methodology-Agile_/_Scrum-1E293B?style=flat-square)
 
 ---
 
-<br/>
+## Featured Projects & Engineering Highlights
 
-<div align="center">
+### [Enterprise Afforestation & Environmental Management System](https://github.com/Abdoae35)
+Architected and developed a full-scale cross-platform mobile application and backend service designed for ecological tracking, plant lifecycle management, and urban greening analytics.
+- **Engineering Keypoints**: Implemented clean layered architecture using BLoC state management to separate business logic from presentation. Standardized repository patterns for seamless offline-first data caching and synchronized cloud updates.
+- **Tech Stack**: `[Flutter]` `[Dart]` `[BLoC]` `[ASP.NET Core]` `[REST API]` `[Clean Architecture]`
 
-## 🏆 GitHub Trophies
+### [High-Throughput E-Commerce Backend Service](https://github.com/Abdoae35)
+Engineered a scalable RESTful Web API utilizing ASP.NET Core and Entity Framework Core, serving structured inventory management and real-time transaction processing.
+- **Engineering Keypoints**: Optimized database index strategies and query execution plans in SQL Server, reducing latency by 40%. Implemented JWT-based role authorization, custom middleware handling, and integration test coverage.
+- **Tech Stack**: `[C#]` `[.NET Core]` `[EF Core]` `[SQL Server]` `[JWT Auth]` `[Docker]`
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abdoae35&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
+### [Cross-Platform Enterprise Dashboard & Analytics](https://github.com/Abdoae35)
+Designed an administrative web suite built with Blazor WebAssembly and .NET Core, offering real-time telemetry rendering and dynamic data visualizations.
+- **Engineering Keypoints**: Leveraged component-driven design patterns and reactive state binding to deliver single-page application performance with native C# execution speeds.
+- **Tech Stack**: `[C#]` `[Blazor WebAssembly]` `[ASP.NET Core]` `[LINQ]` `[Bootstrap]`
 
 ---
 
-<br/>
+## Engineering Methodology & Principles
+
+> "Writing clean, maintainable, and decoupled code is not just a preference—it is a mandatory foundation for building software systems that scale effortlessly over time."
+
+- **Clean Architecture & Decoupled Design**: Strict separation of concerns between Domain, Application, Infrastructure, and Presentation layers to ensure testability and code longevity.
+- **Test-Driven & Quality Assurance**: Prioritizing automated unit, integration, and UI testing to guarantee code stability across deployments.
+- **Continuous Integration & Delivery**: Automating validation pipelines, static analysis, and deployment targets via GitHub Actions and Azure DevOps.
+- **Performance Optimization**: Deep profile analysis on database query execution, memory allocation, and UI render loops to maintain optimal throughput.
+
+---
+
+## GitHub Metrics & Analytics
 
 <div align="center">
 
-## 💼 What I Bring to the Table
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdoae35&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Abdoae35's GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdoae35&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdoae35&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdoae35&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
-<table>
-<tr>
-<td width="50%">
+---
 
-### 🌐 Web Development
-- Building enterprise-level applications with **ASP.NET Core**
-- Creating interactive SPAs with **Blazor WebAssembly**
-- Designing RESTful APIs following best practices
-- Implementing Clean Architecture & SOLID principles
-- Database design and optimization with **EF Core**
+## Connect & Professional Network
 
-</td>
-<td width="50%">
-
-### 📱 Mobile Development
-- Cross-platform apps with **Flutter** for iOS & Android
-- Beautiful, responsive UI/UX implementations
-- State management with BLoC, Provider, Riverpod
-- Firebase integration for backend services
-- Local storage and offline-first approaches
-
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <b>LinkedIn</b><br/><br/>
+      <a href="https://www.linkedin.com/in/abdelrahman-elsheref">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <b>Email</b><br/><br/>
+      <a href="mailto:Abdelrahman3535.elsheref@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Contact_Directly-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <b>Portfolio</b><br/><br/>
+      <a href="https://yourportfolio.com">
+        <img src="https://img.shields.io/badge/Portfolio-View_Projects-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
-<br/>
-
 <div align="center">
-
-### 🎯 Core Competencies
-
-🔹 Full Stack Development &nbsp; | &nbsp; 🔹 RESTful API Design &nbsp; | &nbsp; 🔹 Database Architecture  
-🔹 Mobile App Development &nbsp; | &nbsp; 🔹 Cloud Deployment &nbsp; | &nbsp; 🔹 Agile Methodologies  
-🔹 Code Review & Mentoring &nbsp; | &nbsp; 🔹 CI/CD Pipelines &nbsp; | &nbsp; 🔹 Technical Documentation
-
-</div>
-
 <br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## 🌱 Currently Exploring
-
-</div>
-
-```csharp
-var currentLearningPath = new List<string>
-{
-    "🔥 Advanced Blazor patterns and component architecture",
-    "🚀 Microservices with .NET and Docker",
-    "📦 Flutter advanced animations and custom painters",
-    "☁️ Azure cloud services and serverless computing",
-    "🎨 Design patterns and clean code principles",
-    "🤖 AI/ML integration with .NET ML.NET"
-};
-```
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdoae35&custom_title=Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## 💡 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-### 🤝 Let's Collaborate!
-
-I'm always excited to work on interesting projects and contribute to open source.  
-Feel free to reach out for collaborations or just a friendly chat about technology!
-
-<br/>
-
-### 📬 Get In Touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Abdoae35)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/YOUR_TWITTER)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:your.email@example.com)
-
-<br/>
-
----
-
-<br/>
-
-### ⚡ Fun Fact
-
-*"I speak fluent C# and Dart, but still struggle with human languages!" 🤓*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-**✨ Thanks for visiting! Happy Coding! ✨**
-
+<small>© 2026 Abdelrahman Elsheref. All rights reserved.</small>
 </div>
