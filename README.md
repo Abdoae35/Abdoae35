@@ -101,17 +101,24 @@ Designed an administrative web suite built with Blazor WebAssembly and .NET Core
 
 ## GitHub Metrics & Analytics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdoae35&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Abdoae35's GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdoae35&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdoae35&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdoae35&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Contribution Graph"/>
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Abdoae35&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="100%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com/?user=Abdoae35&theme=dark&hide_border=true" alt="GitHub Streak" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdoae35&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="100%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdoae35&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Contribution Graph" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
