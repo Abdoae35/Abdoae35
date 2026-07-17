@@ -104,7 +104,7 @@ Designed an administrative web suite built with Blazor WebAssembly and .NET Core
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Abdoae35&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="100%"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdoae35&theme=github_dark" alt="GitHub Stats" width="100%"/>
     </td>
     <td align="center" width="50%">
       <img src="https://streak-stats.demolab.com/?user=Abdoae35&theme=dark&hide_border=true" alt="GitHub Streak" width="100%"/>
@@ -112,7 +112,7 @@ Designed an administrative web suite built with Blazor WebAssembly and .NET Core
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdoae35&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="100%"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdoae35&theme=github_dark" alt="Top Languages" width="100%"/>
     </td>
     <td align="center" width="50%">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdoae35&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Contribution Graph" width="100%"/>
