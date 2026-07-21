@@ -9,7 +9,7 @@ Dedicated to building high-performance, resilient distributed systems and cross-
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-elsheref)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Online-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Online-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://portfolio-phi-lilac-52.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Direct_Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Abdelrahman3535.elsheref@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Abdoae35-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abdoae35)
 
@@ -140,7 +140,7 @@ Designed an administrative web suite built with Blazor WebAssembly and .NET Core
     </td>
     <td align="center" width="33%">
       <b>Portfolio</b><br/><br/>
-      <a href="https://yourportfolio.com">
+      <a href="https://portfolio-phi-lilac-52.vercel.app/">
         <img src="https://img.shields.io/badge/Portfolio-View_Projects-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
       </a>
     </td>
