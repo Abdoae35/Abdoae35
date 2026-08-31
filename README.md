@@ -71,17 +71,17 @@ Experienced in designing clean layered systems, optimizing database performance,
 
 ## Featured Projects & Engineering Highlights
 
-### [Enterprise Afforestation & Environmental Management System](https://github.com/Abdoae35)
+### [Enterprise Afforestation & Environmental Management System](https://github.com/Abdoae35/AffrostationPanel)
 Architected and developed a full-scale cross-platform mobile application and backend service designed for ecological tracking, plant lifecycle management, and urban greening analytics.
 - **Engineering Keypoints**: Implemented clean layered architecture using BLoC state management to separate business logic from presentation. Standardized repository patterns for seamless offline-first data caching and synchronized cloud updates.
 - **Tech Stack**: `[Flutter]` `[Dart]` `[BLoC]` `[ASP.NET Core]` `[REST API]` `[Clean Architecture]`
 
-### [High-Throughput E-Commerce Backend Service](https://github.com/Abdoae35)
+### [High-Throughput E-Commerce Backend Service](https://github.com/Abdoae35/ebookStore)
 Engineered a scalable RESTful Web API utilizing ASP.NET Core and Entity Framework Core, serving structured inventory management and real-time transaction processing.
 - **Engineering Keypoints**: Optimized database index strategies and query execution plans in SQL Server, reducing latency by 40%. Implemented JWT-based role authorization, custom middleware handling, and integration test coverage.
 - **Tech Stack**: `[C#]` `[.NET Core]` `[EF Core]` `[SQL Server]` `[JWT Auth]` `[Docker]`
 
-### [Cross-Platform Enterprise Dashboard & Analytics](https://github.com/Abdoae35)
+### [Cross-Platform Enterprise Dashboard & Analytics](https://github.com/Abdoae35/FitPanel)
 Designed an administrative web suite built with Blazor WebAssembly and .NET Core, offering real-time telemetry rendering and dynamic data visualizations.
 - **Engineering Keypoints**: Leveraged component-driven design patterns and reactive state binding to deliver single-page application performance with native C# execution speeds.
 - **Tech Stack**: `[C#]` `[Blazor WebAssembly]` `[ASP.NET Core]` `[LINQ]` `[Bootstrap]`
